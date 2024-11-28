@@ -1,3 +1,3 @@
 import streamlit as st
-# Interface Streamlit
+import yfinance as yf
 st.title("📈 Dashboard des Stratégies d'Investissement")
